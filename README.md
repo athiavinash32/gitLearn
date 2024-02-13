@@ -2,4 +2,5 @@
 
 Learning git & gitHub using 100xDevs course.
 
-without adding remote
+without init command, by cloning it
+
